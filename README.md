@@ -10,7 +10,6 @@
 <a href="https://fb.com/baodt2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="baodt2911" height="30" width="40" /></a>
 <a href="https://instagram.com/baodt29_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baodt29_11" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@cbtool2535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cbtool2535" height="30" width="40" /></a>
-<a href="https://discord.gg/baodt2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="baodt2911" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
